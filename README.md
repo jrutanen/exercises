@@ -1,0 +1,2 @@
+# exercises
+rprogramming course exercises
